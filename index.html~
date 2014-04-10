@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <title>2048</title>
+  <title>20148</title>
 
   <link href="style/main.css" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="favicon.ico">
@@ -97,3 +98,7 @@
   <script src="js/application.js"></script>
 </body>
 </html>
+=======
+Hello World
+ 
+>>>>>>> c70c00a58f2d0ebda6a1238baa544b3f1291dcb2
